@@ -1,0 +1,26 @@
+/* Write your code here: */
+h1, h2 {
+    color: blueviolet;
+}
+
+/* Parent Child Selector */
+.box > p {
+    color: firebrick;
+}
+
+/* Descendant selector */
+.box li {
+    color: blue;
+ }
+
+
+/* Daisy Chaining */
+li.done  {
+    color: seagreen;
+ }
+
+ /* Combining Combiners */
+
+ul p.done {
+    font-size: 0.5rem;
+ }
