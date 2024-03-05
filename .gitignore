@@ -1,3 +1,4 @@
 solution/
-*.solution.*
+Solution/
+*.solution
 **.DS_Store
