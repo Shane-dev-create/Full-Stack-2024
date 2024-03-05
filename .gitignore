@@ -1,4 +1,3 @@
 solution/
-**solution.html
-**solution.css
+*.solution.*
 **.DS_Store
