@@ -2,3 +2,9 @@ solution/
 Solution/
 *.solution
 **.DS_Store
+*.solution.html
+*.solution1.html
+*.solution2.html
+*.solution.css
+*.solution.js
+
